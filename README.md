@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+MJJ Plumbing & Home Improvements | Professional Service & Repair
 
-# Run and deploy your AI Studio app
+Welcome to the official repository for MJJ Plumbing. This project is a premium service-industry website designed to project reliability, technical expertise, and 24/7 availability for residential and commercial plumbing needs.
 
-This contains everything you need to run your app locally.
+Key Features: Service-Oriented Architecture: Clear, intuitive layout focused on high-conversion service categories. Modern Industrial Aesthetic: A clean, professional look using copper and slate tones to build brand trust. Fully Responsive: Optimized for mobile users—crucial for customers seeking emergency plumbing services. High Performance: Built with Vite for rapid load times, ensuring users find help without delay.
 
-View your app in AI Studio: https://ai.studio/apps/2d919d7c-f5b8-458e-b80a-d5578da37cde
+Live Demo: View the live site here: [mjjplumbing.pages.dev]
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Designed & Developed by Muhammad Sufyan Digital Strategist & Web Designer
